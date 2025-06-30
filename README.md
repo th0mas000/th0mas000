@@ -45,11 +45,9 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 ### 📱 Mobile: **Smart Waste Management System + IoT**
 - Final-year project integrating Flutter with NodeMCU and sensors
 - REST API for data sync between IoT and mobile UI
-- Flutter BLoC architecture (under study)
 
 ### 🏭 Internship: **Warehouse Management System (WMS)**
 - Worked in a real development team for 4 months
-- Technologies: Flutter (UI), REST API, SQL
-- Performance rated "Very Good" by internship supervisor
+- Technologies: Flutter (UI), REST API, SQL, PL/SQL, Oracle databse
 
 ---
