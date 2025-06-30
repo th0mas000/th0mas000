@@ -1,14 +1,16 @@
-# 👩‍💻 [Theetawat Matchan]
-  👩‍💻 [ธีร์ธวัช มาตย์จันทร์]
-- ✅**Flutter Mobile Application Developer**
-- ✅**IoT Enthusiast**
-- ✅**Entry-Level with Internship Experience**
+# 👩‍💻 [Theetawat Matchan]  
+👩‍💻 [ธีร์ธวัช มาตย์จันทร์]  
+- ✅ **Flutter Mobile Application Developer**  
+- ✅ **IoT Enthusiast**  
+- ✅ **Entry-Level with Internship Experience**
 
 📍 Based in Thailand | 🌐 Open to On-site / Hybrid / Remote Work  
 
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [th0mas.theetawat@gmail.com]
+## 📬 Contact Me
 
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [https://www.linkedin.com/in/theetawat-matchan-652b17300/]  
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | th0mas.theetawat@gmail.com |
+|----------------------------------------------------------------------------------------------------|-----------------------------|
+| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [LinkedIn Profile](https://www.linkedin.com/in/theetawat-matchan-652b17300/) |
 
 ---
 
