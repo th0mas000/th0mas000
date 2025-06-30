@@ -1,8 +1,8 @@
 # 👩‍💻 [Theetawat Matchan]
   👩‍💻 [ธีร์ธวัช มาตย์จันทร์]
-✅**Flutter Mobile Application Developer**
-✅**IoT Enthusiast**
-✅**Entry-Level with Internship Experience**
+- ✅**Flutter Mobile Application Developer**
+- ✅**IoT Enthusiast**
+- ✅**Entry-Level with Internship Experience**
 
 📍 Based in Roi-Et, Thailand | 🌐 Open to On-site / Hybrid / Remote Work  
 📧 [th0mas.theetawat@gmail.com] | 📱 [https://www.linkedin.com/in/theetawat-matchan-652b17300/]  
