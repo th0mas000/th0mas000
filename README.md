@@ -19,27 +19,39 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 ## 🧠 Skills & Technologies
 
 ### 💡 Core Development
-- Flutter (UI, Widgets, BLoC – studying)
-- Dart, Java, C/C++, Python, PHP, Pl/SQL
-- REST API integration & JSON **Full CRUD operations** (Create/Read/Update/Delete)
-- Arduino, NodeMCU, IoT Sensors
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) (UI, Widgets, BLoC – studying)
+- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+- NodeMCU, IoT Sensors
+- PL/SQL
+- REST API integration & JSON [CRUD operations (Create/Read/Update/Delete)]
 - Oracle APEX Web Services
-- HTML&CSS (Basic)
+- HTML,CSS & JavaScript (Basic)
 
 ### 💾 Database
-- MySQL, SQL, Oracle Database
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 - Basic Socket Programming
 
 ### 🌐 Web & Networking
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - Basic Network Admin
 - Basic Wireless Networking
-- Node.js (beginner)
-- Git (basic)
 
-### 🎨 UX/UI & Tooling
-- Basic UI/UX Design (Wireframe, User Flow)
-- GitHub, Trello, Agile workflow
-- **Tools:** Visual Studio Code, Android Studio,Figma
+### 🎨 UX/UI
+- Basic UI/UX Design ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) (Wireframe, User Flow)
+### ✨ Version Control
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🔧 Tools
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+- ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ---
 
