@@ -4,7 +4,7 @@
 - ✅**IoT Enthusiast**
 - ✅**Entry-Level with Internship Experience**
 
-📍 Based in Roi-Et, Thailand | 🌐 Open to On-site / Hybrid / Remote Work  
+📍 Based in Thailand | 🌐 Open to On-site / Hybrid / Remote Work  
 📧 [th0mas.theetawat@gmail.com] | 📱 [https://www.linkedin.com/in/theetawat-matchan-652b17300/]  
 
 ---
