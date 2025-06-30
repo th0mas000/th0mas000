@@ -90,19 +90,24 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 
 ---
 
-## 🧪 Projects
+# 🧪 Projects
 
-### 📱 Mobile: **Smart Waste Management System + IoT**
+## 📱 Mobile: **Smart Waste Management System + IoT**
 - Final-year project integrating Flutter with NodeMCU and sensors
 - REST API for data sync between IoT and mobile UI
+### Tools
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### 🏭 Internship: **Warehouse Management System (WMS)**
+## 🏭 Internship: **Warehouse Management System (WMS)**
 - Worked in a real development team for 4 months
 - Implemented **CRUD** operations for Functions in WMS
 - Designed input forms, validation, and update logic with Flutter UI
 - Technologies: Flutter (UI), REST API, SQL, PL/SQL, Oracle databse
 
-## Experience
+### Tools
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+# Experience
 
 ### 💼 Internship Jul 2024 - Oct 2024
 - soft square international co. ltd
