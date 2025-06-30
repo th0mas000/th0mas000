@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **mobile app developer** specializing in **Flutter and Dart**, with a strong foundation in **object-oriented programming, RESTful APIs, and IoT integration**. My final-year project and internship have equipped me with practical experience in **Flutter, BLoC architecture, Arduino/NodeMCU, and SQL/Oracle systems**.
+I'm a passionate **mobile app developer** specializing in **Flutter and Dart**, with a strong foundation in **object-oriented programming, implementing CRUD operations with RESTful APIs, and IoT integration**. My final-year project and internship have equipped me with practical experience in **Flutter, BLoC architecture, Arduino/NodeMCU, and SQL/Oracle systems**.
 
 I am enthusiastic about building modern, efficient, and scalable mobile applications, and I thrive in collaborative, agile environments.
 
