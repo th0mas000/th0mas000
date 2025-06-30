@@ -106,9 +106,15 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 
 ## Experience
 
-### Internship
-- soft square international co. ltd  Jul 2024 - Oct 2024
-  | Software Developer (Flutter Mobile Application Developer) | Warehouse Management System WMS
-           WMS is a system designed to manage inventory movement and storage within a warehouse. The system is developed using Flutter 
-       for the front-end (mobile) and Oracle as the back-end database for secure and efficient data management. |
----
+### 💼 Internship Jul 2024 - Oct 2024
+- soft square international co. ltd
+- Software Developer (Mobile Application Developer)
+
+### Tools
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+|Description                                                                                                    |
+|---------------------------------------------------------------------------------------------------------------|
+| Developed a Warehouse Management System (WMS) to manage inventory movement and storage using Flutter for mobile front-end and Oracle for secure back-end data management. |
+
