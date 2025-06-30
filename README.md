@@ -18,7 +18,7 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 
 ### 💡 Core Development
 - Flutter (UI, Widgets, BLoC – studying)
-- Dart, Java, C/C++, Python, PHP
+- Dart, Java, C/C++, Python, PHP, Pl/SQL
 - REST API integration & JSON
 - Arduino, NodeMCU, IoT Sensors
 - Oracle APEX Web Services
