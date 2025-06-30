@@ -19,7 +19,7 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 ### 💡 Core Development
 - Flutter (UI, Widgets, BLoC – studying)
 - Dart, Java, C/C++, Python, PHP, Pl/SQL
-- REST API integration & JSON
+- REST API integration & JSON **Full CRUD operations** (Create/Read/Update/Delete)
 - Arduino, NodeMCU, IoT Sensors
 - Oracle APEX Web Services
 
@@ -48,6 +48,8 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 
 ### 🏭 Internship: **Warehouse Management System (WMS)**
 - Worked in a real development team for 4 months
+- Implemented **CRUD** operations for Functions in WMS
+- Designed input forms, validation, and update logic with Flutter UI
 - Technologies: Flutter (UI), REST API, SQL, PL/SQL, Oracle databse
 
 ---
