@@ -29,10 +29,10 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 |------------|-------------|
 | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | UI, Widgets, BLoC – studying |
 | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | Programming language for Flutter |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Object-Oriented Programming |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Understanding and writing with Object-Oriented Programming (OOP) principles |
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Low-level programming |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | OOP and system-level programming |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | General-purpose scripting |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | OOP and Used in microcontroller and IoT development |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | General-purpose scripting and Proficient enough to write code with libraries |
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | Web backend scripting |
 | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) | Embedded systems, electronics projects |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Basic structure for web content |
@@ -49,8 +49,8 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 
 | Technology | Description |
 |------------|-------------|
-| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | Relational Database |
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Enterprise Database |
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | General understanding of using and managing relational databases |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Understanding of Oracle database structure and management |
 | Basic Socket Programming | Network-level data transmission |
 
 ---
@@ -59,7 +59,7 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 
 | Technology | Description |
 |------------|-------------|
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | Backend JS runtime |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | Used for building backend services and handling server-side logic (Learning) |
 | Basic Network Admin | LAN/WiFi configuration |
 | Basic Wireless Networking | Troubleshooting and setup |
 
