@@ -35,11 +35,13 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | General-purpose scripting |
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | Web backend scripting |
 | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) | Embedded systems, electronics projects |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Basic structure for web content |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Basic Styling and visual presentation for web pages |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Basic client-side scripting for interactive web experiences |
 | NodeMCU, IoT Sensors | Internet of Things prototyping |
 | PL/SQL | Oracle database scripting |
 | REST API & JSON | CRUD operations |
 | Oracle APEX | Web services & low-code development |
-| HTML, CSS & JavaScript | Basic frontend knowledge |
 
 ---
 
