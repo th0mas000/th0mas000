@@ -24,7 +24,7 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 - REST API integration & JSON **Full CRUD operations** (Create/Read/Update/Delete)
 - Arduino, NodeMCU, IoT Sensors
 - Oracle APEX Web Services
-- Html&Css (Basic)
+- HTML&CSS (Basic)
 
 ### 💾 Database
 - MySQL, SQL, Oracle Database
