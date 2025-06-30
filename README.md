@@ -21,7 +21,7 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 
 ---
 
-## 🧠 Skills & Technologies
+# 🧠 Skills & Technologies
 
 ## 💡 Core Development
 
