@@ -36,7 +36,7 @@ I am enthusiastic about building modern, efficient, and scalable mobile applicat
 ### 🎨 UX/UI & Tooling
 - Basic UI/UX Design (Wireframe, User Flow)
 - GitHub, Trello, Agile workflow
-- **Tools:** Visual Studio Code, Android Studio
+- **Tools:** Visual Studio Code, Android Studio,Figma
 
 ---
 
