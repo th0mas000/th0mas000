@@ -2,7 +2,6 @@
 👩‍💻 [ธีร์ธวัช มาตย์จันทร์]  
 - ✅ **Flutter Mobile Application Developer**  
 - ✅ **IoT Enthusiast**  
-- ✅ **Entry-Level with Internship Experience**
 
 📍 Based in Thailand | 🌐 Open to On-site / Hybrid / Remote Work  
 
