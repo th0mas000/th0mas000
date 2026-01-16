@@ -1,127 +1,155 @@
-# 👩‍💻 [Theetawat Matchan]  
-👩‍💻 [ธีร์ธวัช มาตย์จันทร์]  
-- ✅ **Flutter Mobile Application Developer**  
-- ✅ **IoT Enthusiast**  
+<div align="center">
 
-📍 Based in Thailand | 🌐 Open to On-site / Hybrid / Remote Work  
+# 👨‍💻 Theetawat Matchan
+### ธีร์ธวัช มาตย์จันทร์
 
-## 📬 Contact Me
+**Flutter Mobile Application Developer** • **IoT Enthusiast**
 
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | th0mas.theetawat@gmail.com |
-|----------------------------------------------------------------------------------------------------|-----------------------------|
-| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [LinkedIn Profile](https://www.linkedin.com/in/theetawat-matchan-652b17300/) |
+📍 Thailand | 🌐 On-site / Hybrid / Remote
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:th0mas.theetawat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theetawat-matchan-652b17300/)
+
+</div>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate **mobile app developer** specializing in **Flutter and Dart**, with a strong foundation in **object-oriented programming, implementing CRUD operations with RESTful APIs, and IoT integration**. My final-year project and internship have equipped me with practical experience in **Flutter, BLoC architecture, Arduino/NodeMCU, and SQL/Oracle systems**.
 
-I am enthusiastic about building modern, efficient, and scalable mobile applications, and I thrive in collaborative, agile environments.
+Passionate **mobile app developer** specializing in **Flutter and Dart**, with proven experience in **object-oriented programming, RESTful API integration, and IoT systems**. Through my final-year project and 4-month internship, I've gained hands-on expertise in **Flutter, BLoC architecture, Arduino/NodeMCU, and Oracle database systems**.
 
----
-
-## 💡 Core Development
-
-| Technology | Description |
-|------------|-------------|
-| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | UI, Widgets, BLoC – studying |
-| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | Programming language for Flutter |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Understanding and writing with Object-Oriented Programming (OOP) principles |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Low-level programming |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | OOP and Used in microcontroller and IoT development |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | General-purpose scripting and Proficient enough to write code with libraries |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | Web backend scripting |
-| ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) | Embedded systems, electronics projects |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Basic structure for web content |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Basic Styling and visual presentation for web pages |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Basic client-side scripting for interactive web experiences |
-| NodeMCU, IoT Sensors | Internet of Things prototyping |
-| PL/SQL | Oracle database scripting |
-| REST API & JSON | CRUD operations |
-| Oracle APEX | Web services & low-code development |
+I thrive in collaborative agile environments and am enthusiastic about building modern, efficient, and scalable mobile applications.
 
 ---
 
-## 💾 Database
+## 💼 Professional Experience
 
-| Technology | Description |
-|------------|-------------|
-| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | General understanding of using and managing relational databases |
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Understanding of Oracle database structure and management |
-| Basic Socket Programming | Network-level data transmission |
+### Software Developer (Mobile Application Developer)
+**Soft Square International Co., Ltd.** • *Jul 2024 - Oct 2024*
 
----
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
-## 🌐 Web & Networking
-
-| Technology | Description |
-|------------|-------------|
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | Used for building backend services and handling server-side logic (Learning) |
-| Basic Network Admin | LAN/WiFi configuration |
-| Basic Wireless Networking | Troubleshooting and setup |
+- Developed a **Warehouse Management System (WMS)** mobile application managing inventory movement and storage
+- Implemented CRUD operations with Flutter front-end and Oracle back-end
+- Designed input forms, validation logic, and update mechanisms
+- Collaborated with development team using Git version control
 
 ---
 
-## 🎨 UX/UI
+## 🎯 Featured Projects
 
-| Tool | Description |
-|------|-------------|
-| ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | Wireframe & user flow design |
+### 📱 Smart Waste Management System + IoT
+**Final Year Project**
 
----
+Real-time IoT system integrating mobile application with sensor hardware for intelligent waste monitoring.
 
-## ✨ Version Control
+**Stack:**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
-| Tool | Description |
-|------|-------------|
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | Version control system |
-| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Code hosting platform |
-
----
-
-## 🔧 Tools
-
-| Tool | Description |
-|------|-------------|
-| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Code editor |
-| ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) | Android app development and emulator |
-
+**Key Features:**
+- NodeMCU and sensor integration
+- RESTful API for IoT-mobile data synchronization
+- Real-time data monitoring dashboard
 
 ---
 
-# 🧪 Projects
+### 🏭 Warehouse Management System (WMS)
+**Internship Project**
 
-## 📱 Mobile: **Smart Waste Management System + IoT**
-- Final-year project integrating Flutter with NodeMCU and sensors
-- REST API for data sync between IoT and mobile UI
-### Tools
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+Enterprise-level mobile application for warehouse operations management.
 
-## 🏭 Internship: **Warehouse Management System (WMS)**
-- Worked in a real development team for 4 months
-- Implemented **CRUD** operations for Functions in WMS
-- Designed input forms, validation, and update logic with Flutter UI
-- Technologies: Flutter (UI), REST API, SQL, PL/SQL, Oracle databse
+**Stack:**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### Tools
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Key Features:**
+- Complete CRUD operations for warehouse functions
+- Complex form validation and data persistence
+- Integration with Oracle database via REST API
+- PL/SQL stored procedures for business logic
 
-### Example 1
-![Image Alt](https://github.com/th0mas000/th0mas000/blob/e45508a3d73af255280b4e1667fcab0e0beb3e80/WMS_1.png)
-### Example 2
-![Image Alt](https://github.com/th0mas000/th0mas000/blob/e45508a3d73af255280b4e1667fcab0e0beb3e80/WMS_2.png)
+---
 
-# Experience
+## 🛠️ Technical Skills
 
-### 💼 Internship Jul 2024 - Oct 2024
-- soft square international co. ltd
-- Software Developer (Mobile Application Developer)
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-### Tools
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- **Flutter & Dart** - UI development, Widgets, BLoC architecture
+- **API Integration** - RESTful services, JSON parsing, CRUD operations
 
+### Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-|Description                                                                                                    |
-|---------------------------------------------------------------------------------------------------------------|
-| Developed a Warehouse Management System (WMS) to manage inventory movement and storage using Flutter for mobile front-end and Oracle for secure back-end data management. |
+- **Java** - Object-Oriented Programming (OOP)
+- **C++** - Microcontroller and IoT development
+- **Python** - Scripting and library integration
+- **PHP** - Web backend development
+- **C** - Low-level programming
 
+### Database & Backend
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+- **MySQL & Oracle** - Database design and management
+- **PL/SQL** - Stored procedures and database scripting
+- **Oracle APEX** - Low-code development
+- **Node.js** - Backend services *(Learning)*
+
+### IoT & Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+- **Arduino & NodeMCU** - Hardware prototyping
+- **IoT Sensors** - Data collection and transmission
+- **Socket Programming** - Network communication
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+- HTML5, CSS3, JavaScript basics
+- Responsive web design fundamentals
+
+### Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- **Figma** - Wireframing and user flow design
+- **Git & GitHub** - Version control and collaboration
+- **VS Code** - Primary code editor
+
+### Additional Skills
+- Network Administration (LAN/WiFi configuration)
+- Wireless Networking (Setup and troubleshooting)
+- Agile Development Methodology
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:th0mas.theetawat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theetawat-matchan-652b17300/)
+
+</div>
