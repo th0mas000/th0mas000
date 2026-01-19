@@ -8,7 +8,13 @@
 📍 Thailand | 🌐 On-site / Hybrid / Remote
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:th0mas.theetawat@gmail.com)
+<br>
+**th0mas.theetawat@gmail.com**
+<br>
+<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theetawat-matchan-652b17300/)
+<br>
+**www.linkedin.com/in/theetawat-matchan-652b17300**
 
 </div>
 
