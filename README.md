@@ -23,10 +23,8 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 ---
 
 ## 💼 Professional Experience
-
-### Software Developer (Mobile Application Developer)
 <details>
-  <summary><strong> Soft Square International Co., Ltd.** • *Jul 2024 - Oct 2024 (IoT)</strong> — <em>Internship</em></summary>
+  <summary><strong> Soft Square International Co., Ltd.** • *Jul 2024 - Oct 2024 (IoT)</strong> — <em>Internship as Software Developer</em></summary>
   <br>
   
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
