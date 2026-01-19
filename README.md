@@ -26,17 +26,17 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 
 ### Software Developer (Mobile Application Developer)
 <details>
-**Soft Square International Co., Ltd.** • *Jul 2024 - Oct 2024*
+  <summary><strong> Soft Square International Co., Ltd.** • *Jul 2024 - Oct 2024 (IoT)</strong> — <em>Internship</em></summary>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-
-- Developed a **Warehouse Management System (WMS)** mobile application managing inventory movement and storage.
-- Implemented CRUD operations with Flutter front-end and Oracle back-end.
-- Designed input forms, validation logic, and update mechanisms.
-- Collaborated with the development team using Git version control.
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+  
+  - Developed a **Warehouse Management System (WMS)** mobile application managing inventory movement and storage.
+  - Implemented CRUD operations with Flutter front-end and Oracle back-end.
+  - Designed input forms, validation logic, and update mechanisms.
+  - Collaborated with the development team using Git version control.
 </details>
 
 ---
