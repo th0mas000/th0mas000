@@ -25,6 +25,7 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 ## 💼 Professional Experience
 
 ### Software Developer (Mobile Application Developer)
+<details>
 **Soft Square International Co., Ltd.** • *Jul 2024 - Oct 2024*
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
@@ -36,6 +37,7 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 - Implemented CRUD operations with Flutter front-end and Oracle back-end.
 - Designed input forms, validation logic, and update mechanisms.
 - Collaborated with the development team using Git version control.
+</details>
 
 ---
 
