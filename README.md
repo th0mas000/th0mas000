@@ -32,49 +32,43 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
-- Developed a **Warehouse Management System (WMS)** mobile application managing inventory movement and storage
-- Implemented CRUD operations with Flutter front-end and Oracle back-end
-- Designed input forms, validation logic, and update mechanisms
-- Collaborated with development team using Git version control
+- Developed a **Warehouse Management System (WMS)** mobile application managing inventory movement and storage.
+- Implemented CRUD operations with Flutter front-end and Oracle back-end.
+- Designed input forms, validation logic, and update mechanisms.
+- Collaborated with the development team using Git version control.
 
 ---
 
 ## 🎯 Featured Projects
 
-### 📱 Smart Waste Management System + IoT
-**Final Year Project**
+<details>
+  <summary><strong>📱 Smart Waste Management System (IoT)</strong> — <em>Final Year Project</em></summary>
+  <br>
+  
+  **Stack:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
-Real-time IoT system integrating mobile application with sensor hardware for intelligent waste monitoring.
+  **Key Features:**
+  - Real-time IoT system integrating mobile application with sensor hardware.
+  - NodeMCU and sensor integration.
+  - RESTful API for IoT-mobile data synchronization.
+</details>
 
-**Stack:**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+<details>
+  <summary><strong>🏭 Warehouse Management System (WMS)</strong> — <em>Internship Project</em></summary>
+  <br>
 
-**Key Features:**
-- NodeMCU and sensor integration
-- RESTful API for IoT-mobile data synchronization
-- Real-time data monitoring dashboard
+  **Stack:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
+  ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
----
-
-### 🏭 Warehouse Management System (WMS)
-**Internship Project**
-
-Enterprise-level mobile application for warehouse operations management.
-
-**Stack:**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Key Features:**
-- Complete CRUD operations for warehouse functions
-- Complex form validation and data persistence
-- Integration with Oracle database via REST API
-- PL/SQL stored procedures for business logic
+  **Key Features:**
+  - Enterprise-level mobile application for warehouse operations.
+  - Complete CRUD operations for warehouse functions.
+  - Complex form validation and data persistence via Oracle DB.
+</details>
 
 ---
 
@@ -99,7 +93,6 @@ Enterprise-level mobile application for warehouse operations management.
 - **C++** - Microcontroller and IoT development
 - **Python** - Scripting and library integration
 - **PHP** - Web backend development
-- **C** - Low-level programming
 
 ### Database & Backend
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -124,7 +117,6 @@ Enterprise-level mobile application for warehouse operations management.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - HTML5, CSS3, JavaScript basics
-- Responsive web design fundamentals
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -134,12 +126,6 @@ Enterprise-level mobile application for warehouse operations management.
 
 - **Figma** - Wireframing and user flow design
 - **Git & GitHub** - Version control and collaboration
-- **VS Code** - Primary code editor
-
-### Additional Skills
-- Network Administration (LAN/WiFi configuration)
-- Wireless Networking (Setup and troubleshooting)
-- Agile Development Methodology
 
 ---
 
