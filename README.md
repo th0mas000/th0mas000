@@ -116,7 +116,6 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:th0mas.theetawat@gmail.com)
 <br>
-<br>
 **th0mas.theetawat@gmail.com**
 <br>
 <br>
