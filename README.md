@@ -115,6 +115,8 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:th0mas.theetawat@gmail.com)
+**th0mas.theetawat@gmail.com**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theetawat-matchan-652b17300/)
+**https://www.linkedin.com/in/theetawat-matchan-652b17300**
 
 </div>
