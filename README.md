@@ -3,7 +3,7 @@
 # 👨‍💻 Theetawat Matchan
 ### ธีร์ธวัช มาตย์จันทร์
 
-**Flutter Mobile Application Developer** • **IoT Enthusiast**
+**Flutter Developer** • **Software Developer**
 
 📍 Thailand | 🌐 On-site / Hybrid / Remote
 
