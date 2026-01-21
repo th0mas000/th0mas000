@@ -74,7 +74,7 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 </details>
 
 <details>
-  <summary><strong>� Keb Tang (เก็บตังค์) - Personal Finance Manager</strong> — <em>Flutter Mobile Application</em></summary>
+  <summary><strong>💰 Keb Tang (เก็บตังค์) - Personal Finance Manager</strong> — <em>Flutter Mobile Application</em></summary>
   <br>
   
   **Stack:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 
@@ -101,7 +101,7 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 </details>
 
 <details>
-  <summary><strong>�📱 Smart Waste Management System (IoT)</strong> — <em>Final Year Project</em></summary>
+  <summary><strong>🗑️ Smart Waste Management System (IoT)</strong> — <em>Final Year Project</em></summary>
   <br>
   
   **Stack:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 
