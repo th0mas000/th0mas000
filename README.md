@@ -74,7 +74,34 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 </details>
 
 <details>
-  <summary><strong>📱 Smart Waste Management System (IoT)</strong> — <em>Final Year Project</em></summary>
+  <summary><strong>� Keb Tang (เก็บตังค์) - Personal Finance Manager</strong> — <em>Flutter Mobile Application</em></summary>
+  <br>
+  
+  **Stack:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 
+  ![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
+
+  **Repository:** [GitHub](https://github.com/th0mas000/keb_tang)
+
+  **Key Features:**
+  - **Smart Receipt Scanning**: OCR-powered receipt data extraction using Google ML Kit.
+  - **Visual Analytics**: Interactive dashboard with pie charts and bar charts via `fl_chart`.
+  - **Cloud Backup**: Seamless Google Drive integration for data backup and restoration.
+  - **Thai-First Design**: Fully localized interface designed specifically for Thai users.
+  - **SQLite Database**: Local data persistence with `sqflite` for offline capability.
+  - **Data Import/Export**: File-based backup system for data portability.
+  
+  **Highlights:**
+  - Full-stack mobile development with local database management.
+  - OCR/ML integration for real-world automation.
+  - Cloud services integration (Google Drive API).
+  - Data visualization and user analytics.
+  - Complete Thai language localization.
+</details>
+
+<details>
+  <summary><strong>�📱 Smart Waste Management System (IoT)</strong> — <em>Final Year Project</em></summary>
   <br>
   
   **Stack:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 
