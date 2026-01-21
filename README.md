@@ -179,7 +179,7 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=th0mas000&layout=compact&theme=radical&hide_border=true&langs_count=8)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=th0mas000&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=th0mas000&layout=compact&theme=radical&hide_border=true&langs_count=8&size_weight=0.2&count_weight=0.2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=th0mas000&layout=compact&theme=radical&hide_border=true&langs_count=8&size_weight=0.8&count_weight=0.8)
 
 </div>
 
