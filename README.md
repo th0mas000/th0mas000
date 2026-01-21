@@ -49,6 +49,31 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 ## 🎯 Featured Projects
 
 <details>
+  <summary><strong>🎮 PaylessPlay - Game Deals Aggregator</strong> — <em>Flutter Web Application</em></summary>
+  <br>
+  
+  **Stack:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) 
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+
+  **Live Demo:** [https://paylessplay.web.app/](https://paylessplay.web.app/)
+
+  **Key Features:**
+  - Real-time game deals aggregation from multiple stores via **CheapShark API**.
+  - **Steam API integration** for rich game details, tags, and metadata.
+  - **Multi-currency support** with automatic location-based currency conversion.
+  - Advanced filtering by discount, price range, and store preferences.
+  - Responsive dark/light theme with Provider state management.
+  - Deployed on **Firebase Hosting** with CI/CD pipeline.
+  
+  **Highlights:**
+  - Demonstrates advanced Flutter web development skills.
+  - RESTful API integration and data modeling.
+  - Real-world state management with Provider.
+  - Production deployment and optimization.
+</details>
+
+<details>
   <summary><strong>📱 Smart Waste Management System (IoT)</strong> — <em>Final Year Project</em></summary>
   <br>
   
