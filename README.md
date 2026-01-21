@@ -178,6 +178,7 @@ I thrive in collaborative agile environments and am enthusiastic about building 
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=th0mas000&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=th0mas000&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook)
 
 </div>
 
