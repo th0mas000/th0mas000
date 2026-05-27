@@ -56,7 +56,6 @@ I thrive in collaborative agile environments and am enthusiastic about building 
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) 
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 
-  **Live Demo:** [https://paylessplay.web.app/](https://paylessplay.web.app/)
 
   **Key Features:**
   - Real-time game deals aggregation from multiple stores via **CheapShark API**.
